@@ -53,7 +53,7 @@ while(!success)
 }
 ```
 
-📈 Progress
+###📈 Progress
 
 ✅ Started consistent daily coding practice with Code Galatta
 
@@ -61,11 +61,13 @@ while(!success)
 
 📅 Committed to minimum 1–2 hours of practice every day
 
-🔗 Connect With Me
+
+###🔗 Connect With Me
 
 LinkedIn: www.linkedin.com/in/srinidhi-prakash-8a551a412
 
 Email: srinidhiprakash28@gmail.com
+
 
 Made with ❤️ and dedication
 
