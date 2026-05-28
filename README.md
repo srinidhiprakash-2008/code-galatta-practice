@@ -62,7 +62,9 @@ while(!success)
 🔗 Connect With Me
 
 LinkedIn: www.linkedin.com/in/srinidhi-prakash-8a551a412
+
 Email: srinidhiprakash28@gmail.com
 
 Made with ❤️ and dedication
+
 Trust the process. Practice daily. Stay consistent.
