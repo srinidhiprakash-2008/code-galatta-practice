@@ -56,7 +56,9 @@ while(!success)
 📈 Progress
 
 ✅ Started consistent daily coding practice with Code Galatta
+
 🔄 Actively solving problems and building concepts
+
 📅 Committed to minimum 1–2 hours of practice every day
 
 🔗 Connect With Me
